@@ -72,6 +72,8 @@ public class CartFragment extends Fragment implements View.OnClickListener{
 
         System.out.println("aaaaaaa");
 
+        System.out.println("hello World");
+
         return  view;
 
     }
