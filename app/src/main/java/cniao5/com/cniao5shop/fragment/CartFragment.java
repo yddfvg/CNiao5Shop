@@ -69,7 +69,12 @@ public class CartFragment extends Fragment implements View.OnClickListener{
         cartProvider = new CartProvider(getContext());
 
         showData();
-        
+
+        System.out.println("aaaaaaa");
+
+        System.out.println("hello World");
+
+
         return  view;
 
     }
