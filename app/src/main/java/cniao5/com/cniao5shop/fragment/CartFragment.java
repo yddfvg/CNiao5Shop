@@ -70,6 +70,8 @@ public class CartFragment extends Fragment implements View.OnClickListener{
 
         showData();
 
+        System.out.println("aaaaaaa");
+
         return  view;
 
     }
